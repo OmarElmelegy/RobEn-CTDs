@@ -15,5 +15,8 @@ This repo contains some fun & interesting coding challenges we explored in RobEn
 
 -  **⚽ RandomTeamsRobEn:** A code that was written outside the challenges by me to have some fun, it takes a number of people who want to play football with us and outputs random teams depending on the input to it.
 
+-  **🧾 RobEnDB:** A DataBase using python & files to store names, birthdays and ages of people, then retrieve or delete entries whenever the user wants to.
 
+-  **📺 RobEnDBMyTube:** A simple Python project that uses Python libraries to search for videos on YouTube and download with optional resolutions for different streams to a specific folder.
 
+-  **⚔️🧙‍♂️ Bag Game: A Random Tradition:** A game that is considered the tradition of RobEn. It is a CLI interface game that combines the main elements of turn-based RPG, randomness of computer decisions and green bags of coins. It also shows a photo when the game ends using open-cv library to declare a winner or a loser.
